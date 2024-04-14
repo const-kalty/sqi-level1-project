@@ -61,15 +61,19 @@ font-weight: 700;
     .re-landingP{
 padding-top: 50%;
     }
+    .fifthP-btm-box1{
+        padding: 5%;
+    }
     .logo-img{
         padding-top: 15%;
         height: 250px;
-        width: 350px;
+        width: 330px;
     }
-    .wrap{
+    .logo-header{
         white-space: wrap;
     }
-    .logo-para{
+    .logo-text small{
         white-space: wrap;
     }
+   
 }

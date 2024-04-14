@@ -51,6 +51,9 @@ button i{
 .signup{
     border-top: 1px solid #d7cbcb;
 }
+/* .download{
+    margin: auto;
+} */
 @media only screen and (max-width: 800px) {
     .container-body{
         justify-content: start;
